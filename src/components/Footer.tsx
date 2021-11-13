@@ -6,7 +6,7 @@ export const Footer = () => {
     <>
       <Navbar collapseOnSelect expand="lg" bg="secondary" variant="dark">
         <Container style={{color: "#ccc"}}>
-          PayPay Footer Info
+          Footer Info
         </Container>
       </Navbar>
     </>
