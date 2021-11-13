@@ -13,7 +13,6 @@ export const Home = () => {
               <p><FaBuilding size={120} /></p>
 
               <h3>Admin Panel</h3>
-              <h6>(管理パネル)</h6>
 
               <br />
 
@@ -27,7 +26,6 @@ export const Home = () => {
               <p><FaUserTie size={120} /></p>
 
               <h3>Employee Panel</h3>
-              <h6>(従業員パネル)</h6>
 
               <br />
 
